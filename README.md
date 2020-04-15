@@ -1,6 +1,6 @@
 # Introduction to the JAMstack
 
-This is the code for a Frontend Masters workshop. In this workshop, we’ll learn what the JAMstack is, what it’s capable of, and how we can use it to build full-featured apps with less complexity and overhead.
+This is the code for a Frontend Masters workshop. In this workshop, we learned what the JAMstack is, what it’s capable of, and how we can use it to build full-featured apps with less complexity and overhead.
 
 ## Sections
 
@@ -32,7 +32,7 @@ This is the code for a Frontend Masters workshop. In this workshop, we’ll lear
 
 ### Section 3: Serverless Functions
 
-Before serverless functions, getting 
+Before serverless functions, getting
 
 - What are serverless functions?
   - Talk about other providers
@@ -95,7 +95,3 @@ Before serverless functions, getting
 - Add the ability to delete todos
   - Create a serverless function `/functions/delete-todo.js`
   - Add a button to delete todos
-
-## Thanks
-
-Huge thanks to [David Khourshid](https://twitter.com/DavidKPiano) and [Ryan Florence](https://twitter.com/ryanflorence) for reviewing code and providing [better patterns for using React Hooks](https://twitter.com/jlengstorf/status/1185705298868129793). Thanks to [Sarah Drasner](https://twitter.com/sarah_edo) for sharing notes and examples from [her JAMstack workshop](https://github.com/sdras/JAMstack-Workshop).
